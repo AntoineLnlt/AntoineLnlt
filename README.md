@@ -1,5 +1,5 @@
 <p align="center">
-  ![Banner](https://isomorph.fr/github/antoine_banner_github.gif)
+  <img src="https://isomorph.fr/github/antoine_banner_github.gif">
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Antoine</h1>
