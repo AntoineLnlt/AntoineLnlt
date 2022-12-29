@@ -9,4 +9,4 @@
 
 - 📝 I regulary write articles on medium [https://medium.com/@antoinelechenault](https://medium.com/@antoinelechenault)
 
-- 📫 How to reach me : **antoine@isomorph.fr**
+- 📫 How to reach me : **antoine@gumstudio.fr**
